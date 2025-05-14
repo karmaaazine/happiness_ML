@@ -1,7 +1,0 @@
-| Variable Pair               | Correlation | Meaning                                                                                                            |
-| --------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------ |
-| `income` ↔ `happy_binary`   | **-0.12**   | Slight **negative** correlation: as income increases, happiness may slightly decrease (or no strong trend).        |
-| `educ` ↔ `happy_binary`     | **+0.11**   | Slight **positive** correlation: more education might be linked with higher happiness, but it's very weak.         |
-| `workstat` ↔ `happy_binary` | **-0.06**   | Almost **no correlation**: work status doesn’t seem to have a clear relationship with happiness.                   |
-| `income` ↔ `educ`           | **-0.16**   | Slight **negative** correlation: surprisingly, higher education might be linked with lower income in this dataset. |
-| `income` ↔ `workstat`       | **+0.10**   | Weak positive correlation: full-time workers might earn more, but again not strongly.                              |
